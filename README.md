@@ -1,0 +1,2 @@
+# wamig
+My first repositor
